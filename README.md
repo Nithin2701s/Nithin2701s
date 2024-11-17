@@ -59,7 +59,7 @@
     <p align="left">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+          src="amazon-web-services-7.svg"
           alt="aws"
           width="40"
           height="40"
@@ -67,9 +67,9 @@
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
           alt="bootstrap"
-          width="40"
+          width="50"
           height="40"
         />
       </a>
@@ -99,7 +99,7 @@
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          src="pngwing.com.png"
           alt="express"
           width="40"
           height="40"
@@ -175,7 +175,7 @@
       </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          src="https://img.icons8.com/fluent-systems-regular/200/FFFFFF/nextjs.png"
           alt="nextjs"
           width="40"
           height="40"
