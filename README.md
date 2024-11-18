@@ -17,7 +17,7 @@
     </p>
     - 👨‍💻 All of my projects are available at
     [https://github.com/Nithin2701s](https://github.com/Nithin2701s) - 💬 Ask me
-    about **react,next** - 📫 How to reach me **nithincns2701@gmail.com**
+    about **react, next** - 📫 How to reach me **nithincns2701@gmail.com**
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
@@ -261,11 +261,11 @@
       />
     </p>
     <p>
-      <img
+<!--       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=nithin2701s&"
         alt="nithin2701s"
-      />
+      /> -->
     </p>
   </body>
 </html>
